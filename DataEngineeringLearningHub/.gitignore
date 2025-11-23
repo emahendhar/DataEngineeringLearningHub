@@ -1,0 +1,19 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+
+# SBT (Scala/Spark)
+project/project/
+project/target/
+target/
+*.log
+
+# Mac/Linux
+.DS_Store
+*.tmp
