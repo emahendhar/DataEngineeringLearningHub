@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/scala" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/scala" />
+            <option value="$PROJECT_DIR$/scala/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.11.7" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spark" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/spark" />
+            <option value="$PROJECT_DIR$/spark/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.11.7" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>
