@@ -12,7 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="java" target="17" />
-      <module name="spark" target="17" />
+      <module name="spark" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
