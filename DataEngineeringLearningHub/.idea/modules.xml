@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DataEngineeringLearningHub.iml" filepath="$PROJECT_DIR$/DataEngineeringLearningHub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataengineeringlearninghub.iml" filepath="$PROJECT_DIR$/.idea/modules/dataengineeringlearninghub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dataengineeringlearninghub-build.iml" filepath="$PROJECT_DIR$/.idea/modules/dataengineeringlearninghub-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala.iml" filepath="$PROJECT_DIR$/.idea/modules/scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala/.idea/modules/scala-build.iml" filepath="$PROJECT_DIR$/scala/.idea/modules/scala-build.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark.iml" filepath="$PROJECT_DIR$/.idea/modules/spark.iml" />
       <module fileurl="file://$PROJECT_DIR$/spark/.idea/modules/spark-build.iml" filepath="$PROJECT_DIR$/spark/.idea/modules/spark-build.iml" />
     </modules>
   </component>
